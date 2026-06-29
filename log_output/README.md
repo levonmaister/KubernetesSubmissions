@@ -1,3 +1,3 @@
 DEPLOY WITH: 
 
-kubectl apply -f deployment.yaml
+DEPLOY WITH: kubectl create deployment stringy-dep --image=levonmaister/logoutput:1.0
