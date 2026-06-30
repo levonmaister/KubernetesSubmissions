@@ -1,10 +1,14 @@
 CHAPTER 2:
 
-1.1: https://github.com/levonmaister/KubernetesSubmissions/tree/main/log_output
+1.1: https://github.com/levonmaister/KubernetesSubmissions/tree/1.1/log_output
 
 
-1.2: https://github.com/levonmaister/KubernetesSubmissions/tree/main/todo-app
+1.2: https://github.com/levonmaister/KubernetesSubmissions/tree/1.2/todo-app
 
-1.3: https://github.com/levonmaister/KubernetesSubmissions/tree/main/log_output
+1.3: https://github.com/levonmaister/KubernetesSubmissions/tree/1.3/log_output
 
-1.4: https://github.com/levonmaister/KubernetesSubmissions/tree/main/log_output
+1.4: https://github.com/levonmaister/KubernetesSubmissions/tree/1.4/log_output
+
+1.5: https://github.com/levonmaister/KubernetesSubmissions/tree/1.5/todo-app
+
+
