@@ -6,3 +6,5 @@ CHAPTER 2:
 1.2: https://github.com/levonmaister/KubernetesSubmissions/tree/main/todo-app
 
 1.3: https://github.com/levonmaister/KubernetesSubmissions/tree/main/log_output
+
+1.4: https://github.com/levonmaister/KubernetesSubmissions/tree/main/log_output
