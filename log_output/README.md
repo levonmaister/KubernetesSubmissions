@@ -11,3 +11,6 @@ DEPLOY WITH:
 
  kubectl apply -f manifests/deployment.yaml
 >>>>>>> 1872d42 (new changes)
+
+
+1.3 change
