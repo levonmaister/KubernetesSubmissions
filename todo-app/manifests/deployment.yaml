@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: todobackend-dep
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: todobackend
+  template:
+    metadata:
+      labels:
+        app: todobackend
+    spec:
+      containers:
+        - name: todobackend
+          image: levonmaister/todokube:1.0
+          ports:
+            - containerPort: 8080
