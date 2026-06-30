@@ -11,4 +11,5 @@ CHAPTER 2:
 
 1.5: https://github.com/levonmaister/KubernetesSubmissions/tree/1.5/todo-app
 
+1.6: https://github.com/levonmaister/KubernetesSubmissions/tree/1.6/todo-app
 
