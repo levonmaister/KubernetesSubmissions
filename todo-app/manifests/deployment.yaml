@@ -14,6 +14,9 @@ spec:
     spec:
       containers:
         - name: todobackend
-          image: levonmaister/todokube:1.0
+          image: levonmaister/todokube:1.1
           ports:
             - containerPort: 8080
+          env:
+            - name: GREETING
+              value: "Hello from Kubernetes"
